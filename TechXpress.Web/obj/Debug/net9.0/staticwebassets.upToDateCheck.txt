@@ -47,6 +47,7 @@ D:\.Net DEPI\TechXpressV2\TechXpress.Web\wwwroot\lib\bootstrap\dist\css\bootstra
 D:\.Net DEPI\TechXpressV2\TechXpress.Web\wwwroot\css\site.css
 D:\.Net DEPI\TechXpressV2\TechXpress.Web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
 D:\.Net DEPI\TechXpressV2\TechXpress.Web\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+D:\.Net DEPI\TechXpressV2\TechXpress.Web\wwwroot\css\theme-switcher.css
 D:\.Net DEPI\TechXpressV2\TechXpress.Web\wwwroot\lib\jquery\dist\jquery.slim.js
 D:\.Net DEPI\TechXpressV2\TechXpress.Web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
 D:\.Net DEPI\TechXpressV2\TechXpress.Web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
@@ -61,6 +62,7 @@ D:\.Net DEPI\TechXpressV2\TechXpress.Web\wwwroot\lib\bootstrap\dist\css\bootstra
 D:\.Net DEPI\TechXpressV2\TechXpress.Web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
 D:\.Net DEPI\TechXpressV2\TechXpress.Web\wwwroot\lib\jquery-validation\dist\jquery.validate.js
 wwwroot\css\site.css
+wwwroot\css\theme-switcher.css
 wwwroot\favicon.ico
 wwwroot\images\Screenshot 2025-01-04 222546.png
 wwwroot\images\Screenshot 2025-01-05 231402.png

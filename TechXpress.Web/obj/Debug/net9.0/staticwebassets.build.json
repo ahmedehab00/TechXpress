@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "W0arwUNAfQWUoYi1uNdUK624qimHEzAF3k/Fw+6Ug1o=",
+  "Hash": "kGzs0XcjFAiKxx8LCSpk2xDAMV69Dk6/FnOQY3sPenE=",
   "Source": "TechXpress.Web",
   "BasePath": "_content/TechXpress.Web",
   "Mode": "Default",
@@ -836,12 +836,12 @@
       "OriginalItemSpec": "D:\\.Net DEPI\\TechXpressV2\\TechXpress.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "D:\\.Net DEPI\\TechXpressV2\\TechXpress.Web\\obj\\Debug\\net9.0\\compressed\\nrv2svh1g9-xtxxf3hu2r.gz",
+      "Identity": "D:\\.Net DEPI\\TechXpressV2\\TechXpress.Web\\obj\\Debug\\net9.0\\compressed\\nrv2svh1g9-ynwftqvgjt.gz",
       "SourceId": "TechXpress.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\.Net DEPI\\TechXpressV2\\TechXpress.Web\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/TechXpress.Web",
-      "RelativePath": "js/site#[.{fingerprint=xtxxf3hu2r}]?.js.gz",
+      "RelativePath": "js/site#[.{fingerprint=ynwftqvgjt}]?.js.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -850,8 +850,8 @@
       "RelatedAsset": "D:\\.Net DEPI\\TechXpressV2\\TechXpress.Web\\wwwroot\\js\\site.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "fpxp8wntf7",
-      "Integrity": "465WqepNnI4ENLgQJFXrL2gtI20GCfeLK3JAtugOzpA=",
+      "Fingerprint": "7k00h3xomx",
+      "Integrity": "KVAL1nOz5CewAN7E5KUotlrCipYOyC7M9ftR51W6SEU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\.Net DEPI\\TechXpressV2\\TechXpress.Web\\wwwroot\\js\\site.js"
@@ -1004,12 +1004,12 @@
       "OriginalItemSpec": "D:\\.Net DEPI\\TechXpressV2\\TechXpress.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "D:\\.Net DEPI\\TechXpressV2\\TechXpress.Web\\obj\\Debug\\net9.0\\compressed\\rpaj70lf7g-b9sayid5wm.gz",
+      "Identity": "D:\\.Net DEPI\\TechXpressV2\\TechXpress.Web\\obj\\Debug\\net9.0\\compressed\\rpaj70lf7g-jdm0e5249a.gz",
       "SourceId": "TechXpress.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\.Net DEPI\\TechXpressV2\\TechXpress.Web\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/TechXpress.Web",
-      "RelativePath": "css/site#[.{fingerprint=b9sayid5wm}]?.css.gz",
+      "RelativePath": "css/site#[.{fingerprint=jdm0e5249a}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -1018,8 +1018,8 @@
       "RelatedAsset": "D:\\.Net DEPI\\TechXpressV2\\TechXpress.Web\\wwwroot\\css\\site.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "wf4wcyqcqt",
-      "Integrity": "fNKkLSNFLZMVTc2zVrpMXQqOwPU3sU4GWcfEbCR2V1I=",
+      "Fingerprint": "lh6hamfvzd",
+      "Integrity": "GU359RC2tPoG/XKdFTV/bfMEr+qAVMoQHkmrw45kSno=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\.Net DEPI\\TechXpressV2\\TechXpress.Web\\wwwroot\\css\\site.css"
@@ -1065,6 +1065,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\.Net DEPI\\TechXpressV2\\TechXpress.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Identity": "D:\\.Net DEPI\\TechXpressV2\\TechXpress.Web\\obj\\Debug\\net9.0\\compressed\\sckn4ylsr2-jpfhbs9r8d.gz",
+      "SourceId": "TechXpress.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\.Net DEPI\\TechXpressV2\\TechXpress.Web\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/TechXpress.Web",
+      "RelativePath": "css/theme-switcher#[.{fingerprint=jpfhbs9r8d}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\.Net DEPI\\TechXpressV2\\TechXpress.Web\\wwwroot\\css\\theme-switcher.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "pmmrqmg0gr",
+      "Integrity": "UR21MAICiEJo36koRZs371otGayv3p4iWnWzDAjoEBI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\.Net DEPI\\TechXpressV2\\TechXpress.Web\\wwwroot\\css\\theme-switcher.css"
     },
     {
       "Identity": "D:\\.Net DEPI\\TechXpressV2\\TechXpress.Web\\obj\\Debug\\net9.0\\compressed\\tsc7qee40n-jjsuc0puko.gz",
@@ -1417,11 +1438,32 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "b9sayid5wm",
-      "Integrity": "j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=",
+      "Fingerprint": "jdm0e5249a",
+      "Integrity": "uWyrEffLZ9XZbUITZpy7wi/UVzmKk9DVKvM79K2HVeQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "D:\\.Net DEPI\\TechXpressV2\\TechXpress.Web\\wwwroot\\css\\theme-switcher.css",
+      "SourceId": "TechXpress.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\.Net DEPI\\TechXpressV2\\TechXpress.Web\\wwwroot\\",
+      "BasePath": "_content/TechXpress.Web",
+      "RelativePath": "css/theme-switcher#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jpfhbs9r8d",
+      "Integrity": "x5RE5i68YPMZtkrv+Bcidb8nqDdu1ir2g/Ag6MMF8uE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\theme-switcher.css"
     },
     {
       "Identity": "D:\\.Net DEPI\\TechXpressV2\\TechXpress.Web\\wwwroot\\favicon.ico",
@@ -1522,8 +1564,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "xtxxf3hu2r",
-      "Integrity": "hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo=",
+      "Fingerprint": "ynwftqvgjt",
+      "Integrity": "4tdKUeG+xn3i99yh79r0h7IWvYjfUYByAvZkUu3NdVU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\site.js"
@@ -2791,13 +2833,13 @@
   ],
   "Endpoints": [
     {
-      "Route": "css/site.b9sayid5wm.css",
-      "AssetFile": "D:\\.Net DEPI\\TechXpressV2\\TechXpress.Web\\obj\\Debug\\net9.0\\compressed\\rpaj70lf7g-b9sayid5wm.gz",
+      "Route": "css/site.css",
+      "AssetFile": "D:\\.Net DEPI\\TechXpressV2\\TechXpress.Web\\obj\\Debug\\net9.0\\compressed\\rpaj70lf7g-jdm0e5249a.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.003125000000"
+          "Quality": "0.000207039337"
         }
       ],
       "ResponseHeaders": [
@@ -2807,19 +2849,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "319"
+          "Value": "4829"
         },
         {
           "Name": "ETag",
-          "Value": "\"fNKkLSNFLZMVTc2zVrpMXQqOwPU3sU4GWcfEbCR2V1I=\""
+          "Value": "\"GU359RC2tPoG/XKdFTV/bfMEr+qAVMoQHkmrw45kSno=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 13 May 2025 09:42:49 GMT"
+          "Value": "Fri, 16 May 2025 14:40:44 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -2835,26 +2877,18 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
+          "Value": "W/\"uWyrEffLZ9XZbUITZpy7wi/UVzmKk9DVKvM79K2HVeQ=\""
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "b9sayid5wm"
-        },
-        {
-          "Name": "label",
-          "Value": "css/site.css"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
+          "Value": "sha256-uWyrEffLZ9XZbUITZpy7wi/UVzmKk9DVKvM79K2HVeQ="
         }
       ]
     },
     {
-      "Route": "css/site.b9sayid5wm.css",
+      "Route": "css/site.css",
       "AssetFile": "D:\\.Net DEPI\\TechXpressV2\\TechXpress.Web\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2864,7 +2898,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "667"
+          "Value": "26547"
         },
         {
           "Name": "Content-Type",
@@ -2872,11 +2906,156 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
+          "Value": "\"uWyrEffLZ9XZbUITZpy7wi/UVzmKk9DVKvM79K2HVeQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 13 May 2025 09:42:49 GMT"
+          "Value": "Fri, 16 May 2025 14:40:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-uWyrEffLZ9XZbUITZpy7wi/UVzmKk9DVKvM79K2HVeQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css.gz",
+      "AssetFile": "D:\\.Net DEPI\\TechXpressV2\\TechXpress.Web\\obj\\Debug\\net9.0\\compressed\\rpaj70lf7g-jdm0e5249a.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4829"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GU359RC2tPoG/XKdFTV/bfMEr+qAVMoQHkmrw45kSno=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 14:40:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-GU359RC2tPoG/XKdFTV/bfMEr+qAVMoQHkmrw45kSno="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.jdm0e5249a.css",
+      "AssetFile": "D:\\.Net DEPI\\TechXpressV2\\TechXpress.Web\\obj\\Debug\\net9.0\\compressed\\rpaj70lf7g-jdm0e5249a.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000207039337"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4829"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GU359RC2tPoG/XKdFTV/bfMEr+qAVMoQHkmrw45kSno=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 14:40:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"uWyrEffLZ9XZbUITZpy7wi/UVzmKk9DVKvM79K2HVeQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jdm0e5249a"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-uWyrEffLZ9XZbUITZpy7wi/UVzmKk9DVKvM79K2HVeQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.jdm0e5249a.css",
+      "AssetFile": "D:\\.Net DEPI\\TechXpressV2\\TechXpress.Web\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26547"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uWyrEffLZ9XZbUITZpy7wi/UVzmKk9DVKvM79K2HVeQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 14:40:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2886,7 +3065,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "b9sayid5wm"
+          "Value": "jdm0e5249a"
         },
         {
           "Name": "label",
@@ -2894,13 +3073,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
+          "Value": "sha256-uWyrEffLZ9XZbUITZpy7wi/UVzmKk9DVKvM79K2HVeQ="
         }
       ]
     },
     {
-      "Route": "css/site.b9sayid5wm.css.gz",
-      "AssetFile": "D:\\.Net DEPI\\TechXpressV2\\TechXpress.Web\\obj\\Debug\\net9.0\\compressed\\rpaj70lf7g-b9sayid5wm.gz",
+      "Route": "css/site.jdm0e5249a.css.gz",
+      "AssetFile": "D:\\.Net DEPI\\TechXpressV2\\TechXpress.Web\\obj\\Debug\\net9.0\\compressed\\rpaj70lf7g-jdm0e5249a.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2909,7 +3088,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "319"
+          "Value": "4829"
         },
         {
           "Name": "Content-Type",
@@ -2917,11 +3096,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"fNKkLSNFLZMVTc2zVrpMXQqOwPU3sU4GWcfEbCR2V1I=\""
+          "Value": "\"GU359RC2tPoG/XKdFTV/bfMEr+qAVMoQHkmrw45kSno=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 13 May 2025 09:42:49 GMT"
+          "Value": "Fri, 16 May 2025 14:40:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2939,7 +3118,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "b9sayid5wm"
+          "Value": "jdm0e5249a"
         },
         {
           "Name": "label",
@@ -2947,18 +3126,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-fNKkLSNFLZMVTc2zVrpMXQqOwPU3sU4GWcfEbCR2V1I="
+          "Value": "sha256-GU359RC2tPoG/XKdFTV/bfMEr+qAVMoQHkmrw45kSno="
         }
       ]
     },
     {
-      "Route": "css/site.css",
-      "AssetFile": "D:\\.Net DEPI\\TechXpressV2\\TechXpress.Web\\obj\\Debug\\net9.0\\compressed\\rpaj70lf7g-b9sayid5wm.gz",
+      "Route": "css/theme-switcher.css",
+      "AssetFile": "D:\\.Net DEPI\\TechXpressV2\\TechXpress.Web\\obj\\Debug\\net9.0\\compressed\\sckn4ylsr2-jpfhbs9r8d.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.003125000000"
+          "Quality": "0.000681198910"
         }
       ],
       "ResponseHeaders": [
@@ -2968,15 +3147,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "319"
+          "Value": "1467"
         },
         {
           "Name": "ETag",
-          "Value": "\"fNKkLSNFLZMVTc2zVrpMXQqOwPU3sU4GWcfEbCR2V1I=\""
+          "Value": "\"UR21MAICiEJo36koRZs371otGayv3p4iWnWzDAjoEBI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 13 May 2025 09:42:49 GMT"
+          "Value": "Fri, 16 May 2025 14:40:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2996,19 +3175,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
+          "Value": "W/\"x5RE5i68YPMZtkrv+Bcidb8nqDdu1ir2g/Ag6MMF8uE=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
+          "Value": "sha256-x5RE5i68YPMZtkrv+Bcidb8nqDdu1ir2g/Ag6MMF8uE="
         }
       ]
     },
     {
-      "Route": "css/site.css",
-      "AssetFile": "D:\\.Net DEPI\\TechXpressV2\\TechXpress.Web\\wwwroot\\css\\site.css",
+      "Route": "css/theme-switcher.css",
+      "AssetFile": "D:\\.Net DEPI\\TechXpressV2\\TechXpress.Web\\wwwroot\\css\\theme-switcher.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3017,7 +3196,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "667"
+          "Value": "6378"
         },
         {
           "Name": "Content-Type",
@@ -3025,11 +3204,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
+          "Value": "\"x5RE5i68YPMZtkrv+Bcidb8nqDdu1ir2g/Ag6MMF8uE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 13 May 2025 09:42:49 GMT"
+          "Value": "Fri, 16 May 2025 14:40:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3039,13 +3218,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
+          "Value": "sha256-x5RE5i68YPMZtkrv+Bcidb8nqDdu1ir2g/Ag6MMF8uE="
         }
       ]
     },
     {
-      "Route": "css/site.css.gz",
-      "AssetFile": "D:\\.Net DEPI\\TechXpressV2\\TechXpress.Web\\obj\\Debug\\net9.0\\compressed\\rpaj70lf7g-b9sayid5wm.gz",
+      "Route": "css/theme-switcher.css.gz",
+      "AssetFile": "D:\\.Net DEPI\\TechXpressV2\\TechXpress.Web\\obj\\Debug\\net9.0\\compressed\\sckn4ylsr2-jpfhbs9r8d.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3054,7 +3233,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "319"
+          "Value": "1467"
         },
         {
           "Name": "Content-Type",
@@ -3062,11 +3241,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"fNKkLSNFLZMVTc2zVrpMXQqOwPU3sU4GWcfEbCR2V1I=\""
+          "Value": "\"UR21MAICiEJo36koRZs371otGayv3p4iWnWzDAjoEBI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 13 May 2025 09:42:49 GMT"
+          "Value": "Fri, 16 May 2025 14:40:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3084,7 +3263,168 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-fNKkLSNFLZMVTc2zVrpMXQqOwPU3sU4GWcfEbCR2V1I="
+          "Value": "sha256-UR21MAICiEJo36koRZs371otGayv3p4iWnWzDAjoEBI="
+        }
+      ]
+    },
+    {
+      "Route": "css/theme-switcher.jpfhbs9r8d.css",
+      "AssetFile": "D:\\.Net DEPI\\TechXpressV2\\TechXpress.Web\\obj\\Debug\\net9.0\\compressed\\sckn4ylsr2-jpfhbs9r8d.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000681198910"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1467"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UR21MAICiEJo36koRZs371otGayv3p4iWnWzDAjoEBI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 14:40:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"x5RE5i68YPMZtkrv+Bcidb8nqDdu1ir2g/Ag6MMF8uE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jpfhbs9r8d"
+        },
+        {
+          "Name": "label",
+          "Value": "css/theme-switcher.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-x5RE5i68YPMZtkrv+Bcidb8nqDdu1ir2g/Ag6MMF8uE="
+        }
+      ]
+    },
+    {
+      "Route": "css/theme-switcher.jpfhbs9r8d.css",
+      "AssetFile": "D:\\.Net DEPI\\TechXpressV2\\TechXpress.Web\\wwwroot\\css\\theme-switcher.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6378"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"x5RE5i68YPMZtkrv+Bcidb8nqDdu1ir2g/Ag6MMF8uE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 14:40:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jpfhbs9r8d"
+        },
+        {
+          "Name": "label",
+          "Value": "css/theme-switcher.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-x5RE5i68YPMZtkrv+Bcidb8nqDdu1ir2g/Ag6MMF8uE="
+        }
+      ]
+    },
+    {
+      "Route": "css/theme-switcher.jpfhbs9r8d.css.gz",
+      "AssetFile": "D:\\.Net DEPI\\TechXpressV2\\TechXpress.Web\\obj\\Debug\\net9.0\\compressed\\sckn4ylsr2-jpfhbs9r8d.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1467"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UR21MAICiEJo36koRZs371otGayv3p4iWnWzDAjoEBI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 14:40:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jpfhbs9r8d"
+        },
+        {
+          "Name": "label",
+          "Value": "css/theme-switcher.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UR21MAICiEJo36koRZs371otGayv3p4iWnWzDAjoEBI="
         }
       ]
     },
@@ -3634,12 +3974,12 @@
     },
     {
       "Route": "js/site.js",
-      "AssetFile": "D:\\.Net DEPI\\TechXpressV2\\TechXpress.Web\\obj\\Debug\\net9.0\\compressed\\nrv2svh1g9-xtxxf3hu2r.gz",
+      "AssetFile": "D:\\.Net DEPI\\TechXpressV2\\TechXpress.Web\\obj\\Debug\\net9.0\\compressed\\nrv2svh1g9-ynwftqvgjt.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.005235602094"
+          "Quality": "0.000245579568"
         }
       ],
       "ResponseHeaders": [
@@ -3649,15 +3989,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "190"
+          "Value": "4071"
         },
         {
           "Name": "ETag",
-          "Value": "\"465WqepNnI4ENLgQJFXrL2gtI20GCfeLK3JAtugOzpA=\""
+          "Value": "\"KVAL1nOz5CewAN7E5KUotlrCipYOyC7M9ftR51W6SEU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 13 May 2025 09:42:49 GMT"
+          "Value": "Fri, 16 May 2025 14:40:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3677,13 +4017,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo=\""
+          "Value": "W/\"4tdKUeG+xn3i99yh79r0h7IWvYjfUYByAvZkUu3NdVU=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo="
+          "Value": "sha256-4tdKUeG+xn3i99yh79r0h7IWvYjfUYByAvZkUu3NdVU="
         }
       ]
     },
@@ -3698,7 +4038,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "231"
+          "Value": "15889"
         },
         {
           "Name": "Content-Type",
@@ -3706,11 +4046,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo=\""
+          "Value": "\"4tdKUeG+xn3i99yh79r0h7IWvYjfUYByAvZkUu3NdVU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 13 May 2025 09:42:49 GMT"
+          "Value": "Fri, 16 May 2025 14:40:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3720,13 +4060,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo="
+          "Value": "sha256-4tdKUeG+xn3i99yh79r0h7IWvYjfUYByAvZkUu3NdVU="
         }
       ]
     },
     {
       "Route": "js/site.js.gz",
-      "AssetFile": "D:\\.Net DEPI\\TechXpressV2\\TechXpress.Web\\obj\\Debug\\net9.0\\compressed\\nrv2svh1g9-xtxxf3hu2r.gz",
+      "AssetFile": "D:\\.Net DEPI\\TechXpressV2\\TechXpress.Web\\obj\\Debug\\net9.0\\compressed\\nrv2svh1g9-ynwftqvgjt.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3735,7 +4075,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "190"
+          "Value": "4071"
         },
         {
           "Name": "Content-Type",
@@ -3743,11 +4083,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"465WqepNnI4ENLgQJFXrL2gtI20GCfeLK3JAtugOzpA=\""
+          "Value": "\"KVAL1nOz5CewAN7E5KUotlrCipYOyC7M9ftR51W6SEU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 13 May 2025 09:42:49 GMT"
+          "Value": "Fri, 16 May 2025 14:40:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3765,18 +4105,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-465WqepNnI4ENLgQJFXrL2gtI20GCfeLK3JAtugOzpA="
+          "Value": "sha256-KVAL1nOz5CewAN7E5KUotlrCipYOyC7M9ftR51W6SEU="
         }
       ]
     },
     {
-      "Route": "js/site.xtxxf3hu2r.js",
-      "AssetFile": "D:\\.Net DEPI\\TechXpressV2\\TechXpress.Web\\obj\\Debug\\net9.0\\compressed\\nrv2svh1g9-xtxxf3hu2r.gz",
+      "Route": "js/site.ynwftqvgjt.js",
+      "AssetFile": "D:\\.Net DEPI\\TechXpressV2\\TechXpress.Web\\obj\\Debug\\net9.0\\compressed\\nrv2svh1g9-ynwftqvgjt.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.005235602094"
+          "Quality": "0.000245579568"
         }
       ],
       "ResponseHeaders": [
@@ -3786,15 +4126,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "190"
+          "Value": "4071"
         },
         {
           "Name": "ETag",
-          "Value": "\"465WqepNnI4ENLgQJFXrL2gtI20GCfeLK3JAtugOzpA=\""
+          "Value": "\"KVAL1nOz5CewAN7E5KUotlrCipYOyC7M9ftR51W6SEU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 13 May 2025 09:42:49 GMT"
+          "Value": "Fri, 16 May 2025 14:40:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3814,13 +4154,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo=\""
+          "Value": "W/\"4tdKUeG+xn3i99yh79r0h7IWvYjfUYByAvZkUu3NdVU=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "xtxxf3hu2r"
+          "Value": "ynwftqvgjt"
         },
         {
           "Name": "label",
@@ -3828,12 +4168,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo="
+          "Value": "sha256-4tdKUeG+xn3i99yh79r0h7IWvYjfUYByAvZkUu3NdVU="
         }
       ]
     },
     {
-      "Route": "js/site.xtxxf3hu2r.js",
+      "Route": "js/site.ynwftqvgjt.js",
       "AssetFile": "D:\\.Net DEPI\\TechXpressV2\\TechXpress.Web\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -3843,7 +4183,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "231"
+          "Value": "15889"
         },
         {
           "Name": "Content-Type",
@@ -3851,11 +4191,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo=\""
+          "Value": "\"4tdKUeG+xn3i99yh79r0h7IWvYjfUYByAvZkUu3NdVU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 13 May 2025 09:42:49 GMT"
+          "Value": "Fri, 16 May 2025 14:40:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3865,7 +4205,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "xtxxf3hu2r"
+          "Value": "ynwftqvgjt"
         },
         {
           "Name": "label",
@@ -3873,13 +4213,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo="
+          "Value": "sha256-4tdKUeG+xn3i99yh79r0h7IWvYjfUYByAvZkUu3NdVU="
         }
       ]
     },
     {
-      "Route": "js/site.xtxxf3hu2r.js.gz",
-      "AssetFile": "D:\\.Net DEPI\\TechXpressV2\\TechXpress.Web\\obj\\Debug\\net9.0\\compressed\\nrv2svh1g9-xtxxf3hu2r.gz",
+      "Route": "js/site.ynwftqvgjt.js.gz",
+      "AssetFile": "D:\\.Net DEPI\\TechXpressV2\\TechXpress.Web\\obj\\Debug\\net9.0\\compressed\\nrv2svh1g9-ynwftqvgjt.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3888,7 +4228,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "190"
+          "Value": "4071"
         },
         {
           "Name": "Content-Type",
@@ -3896,11 +4236,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"465WqepNnI4ENLgQJFXrL2gtI20GCfeLK3JAtugOzpA=\""
+          "Value": "\"KVAL1nOz5CewAN7E5KUotlrCipYOyC7M9ftR51W6SEU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 13 May 2025 09:42:49 GMT"
+          "Value": "Fri, 16 May 2025 14:40:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3918,7 +4258,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "xtxxf3hu2r"
+          "Value": "ynwftqvgjt"
         },
         {
           "Name": "label",
@@ -3926,7 +4266,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-465WqepNnI4ENLgQJFXrL2gtI20GCfeLK3JAtugOzpA="
+          "Value": "sha256-KVAL1nOz5CewAN7E5KUotlrCipYOyC7M9ftR51W6SEU="
         }
       ]
     },
